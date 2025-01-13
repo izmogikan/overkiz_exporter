@@ -1,0 +1,2 @@
+prometheus-client ~= 0.21.1
+pyoverkiz ~= 1.15.3
